@@ -1,0 +1,10 @@
+awxkit>=19.0.0
+python-gitlab>=3.1.0
+pypsrp
+urllib3
+configparser
+openpyxl
+pandas
+six
+str2bool
+xlrd

@@ -1,0 +1,6 @@
+collections:
+#  - name: ansible.controller
+  - name: ansible.utils
+  - name: ansible.posix
+  - name: community.general
+  # - name: aap_iac.config_aap
